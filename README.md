@@ -1,0 +1,2 @@
+# ShuoGe
+A diary
